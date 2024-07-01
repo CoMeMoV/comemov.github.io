@@ -4,9 +4,9 @@ title: Jobs
 
 # Jobs
 
-There are no positions available at this time.
-
 ## Open positions
+
+There are no positions available at this time.
 
 ## Internships
 
