@@ -10,9 +10,10 @@ CoMeMoV is funded by [ANR](https://anr.fr/en/) (ANR-22-CE25-0018).
 ## Members
 - [Téo Bernier](https://orcid.org/0009-0003-4834-7126), Thales Research & Technology
 - [Allan Blanchard](https://allan-blanchard.fr), CEA LIST
+- [Myriam Clouet](), [Université d'Orléans](https://www.univ-orleans.fr/lifo/) 
 - [Loïc Correnson](https://dblp.org/pid/60/882.html), CEA LIST
-- [Jéméry Damour](), CEA LIST & Université d'Orléans
+- [Jéméry Damour](), CEA LIST & [Université d'Orléans](https://www.univ-orleans.fr/lifo/)
 - [Nikolai Kosmatov](https://nikolai-kosmatov.eu), Thales Research & Technology
 - [Delphine Longuet](https://www.lri.fr/~longuet/), Thales Research & Technology
 - [Frédéric Loulergue](https://frederic.loulergue.eu), **PI**, [Université d'Orléans](https://www.univ-orleans.fr/lifo/)
-
+- [Yani Ziani](https://orcid.org/0009-0000-8540-1273), Thales Research & Technology & [Université d'Orléans](https://www.univ-orleans.fr/lifo/)
