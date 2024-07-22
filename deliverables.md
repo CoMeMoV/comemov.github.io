@@ -11,8 +11,8 @@ Title: Deliverables
 - [ ] Final report
 
 ## WP1
-- [ ] Selected case studies
-- [ ] Representative code patterns
+- [x] Selected case studies
+- [x] Representative code patterns
 
 ## WP2
 - [ ] Handbook of memory properties and memory models
@@ -20,7 +20,7 @@ Title: Deliverables
 - [ ] Annotated code patterns
 
 ## WP3
-- [ ] Frama-C/REGIN plugin and manual
+- [ ] Frama-C/REGION plugin and manual
 - [ ] Frama-C/WP propotype with memory model selection
 - [ ] Beta version of the extended Frama-C
 - [ ] Final version of the extended Frama-C
