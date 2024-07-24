@@ -6,7 +6,7 @@ Title: Deliverables
 
 ## WP0
 - [x] D0.a Public [website](https://comemove.github.io) & collaborative tools ([for CoMeMov members only](https://git.frama-c.com/comemov))
-- [ ] Consortium agreement
+- [x] Consortium agreement
 - [ ] Intermediate report
 - [ ] Final report
 
