@@ -4,6 +4,7 @@ Title: News
 
 # News
 
+- **November 14, 2024:** Frédéric Loulergue gives the tutorial [Deductive Verification of C Programs with Frama-C](https://ifm2024.cs.manchester.ac.uk/#invited-tutorial) at iFM 2024 in Manchester, UK
 - **July 24, 2024:** Fourth CoMeMov general meeting at CEA List
 - **June 5, 2024:** Yani Ziani presents _Combiner la Vérification Déductive avec l'analyse de forme_ at AFADL 2024 in Strasbourg
 - **May 27, 2024:** Myriam Clouet joins the project at the University of Orléans
