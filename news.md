@@ -4,6 +4,9 @@ Title: News
 
 # News
 
+- **July 22, 2025:** Fifth CoMeMov general meeting at LIFO
+- **June 24, 2025:** Prototypes of Region and Bytes memory models in the release of Frama-C 31.0 ([Gallium](https://www.frama-c.com/fc-versions/gallium.html)) 
+- **June 18, 2025:** Frédéric Loulergue gives a keynote entitled _Approches formelles pour les composants et outils système_ at AFADL 2025 in Pau ([pdf](https://hal.science/hal-05148512))
 - **January 31, 2025:** Jérémy Damour presents the paper Formalisation d’une analyse de région pour Frama-C/WP at JFLA 2025
 - **November 14, 2024:** Frédéric Loulergue gives the tutorial [Deductive Verification of C Programs with Frama-C](https://ifm2024.cs.manchester.ac.uk/#invited-tutorial) at iFM 2024 in Manchester, UK
 - **July 24, 2024:** Fourth CoMeMov general meeting at CEA List
