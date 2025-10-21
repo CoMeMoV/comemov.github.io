@@ -10,7 +10,7 @@ Title: Deliverables
 - [ ] Final report
 
 ## WP1
-- [x] Selected case studies
+- [x] Selected case studies 
 - [x] Representative code patterns
 
 ## WP2
@@ -21,7 +21,7 @@ Title: Deliverables
 ## WP3
 - [ ] Frama-C/REGION plugin and manual
 - [ ] Frama-C/WP propotype with memory model selection
-- [ ] Beta version of the extended Frama-C
+- [x] Beta version of the extended Frama-C ([Frama-C v31 Gallium](https://www.frama-c.com/fc-versions/gallium.html))
 - [ ] Final version of the extended Frama-C
 
 ## WP4
