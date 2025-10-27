@@ -10,8 +10,8 @@ Title: Deliverables
 - [ ] Final report
 
 ## WP1
-- [x] Selected case studies 
-- [x] Representative code patterns
+- [x] Selected case studies ([PDF](./delivrables-pdf/D1_a_report.pdf))
+- [x] Representative code patterns ([sources](./D1.b-representative_code_patterns.zip))
 
 ## WP2
 - [ ] Handbook of memory properties and memory models
