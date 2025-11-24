@@ -19,9 +19,9 @@ Title: Deliverables
 - [ ] Annotated code patterns
 
 ## WP3
-- [ ] Frama-C/REGION plugin and manual
-- [ ] Frama-C/WP propotype with memory model selection
-- [x] Beta version of the extended Frama-C ([Frama-C v31 Gallium](https://www.frama-c.com/fc-versions/gallium.html))
+- [x] Frama-C/REGION plugin ([Frama-C v31 Gallium](https://www.frama-c.com/fc-versions/gallium.html))
+- [x] Frama-C/WP propotype with memory model selection ([Frama-C v31 Gallium](https://www.frama-c.com/fc-versions/gallium.html))
+- [ ] Beta version of the extended Frama-C 
 - [ ] Final version of the extended Frama-C
 
 ## WP4
