@@ -14,7 +14,7 @@ Title: Deliverables
 - [x] Representative code patterns
 
 ## WP2
-- [ ] Handbook of memory properties and memory models
+- [x] Handbook of memory properties and memory models
 - [ ] Extended ACSL manual of high-level properties
 - [ ] Annotated code patterns
 
